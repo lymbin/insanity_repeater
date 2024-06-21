@@ -1,0 +1,6 @@
+<foreignObject width="100" height="50"
+                   requiredExtensions="http://example.com/SVGExtensions/EmbeddedXHTML">
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <a href='www.gmail.com'>Gmail</a>
+  </body>
+</foreignObject>
